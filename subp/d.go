@@ -1,0 +1,1 @@
+package subp; func D() {}

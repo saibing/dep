@@ -1,1 +1,1 @@
-module gihtub.com/saibing/dep
+module github.com/saibing/dep
